@@ -1,0 +1,10 @@
+Chat app using UDP protocol
+
+commands for user:
+/exit - exit app
+
+In order to use admin commands you need to be logged in with username admin and at the same machine that runs your server
+
+commands for admin:
+?shutdown - shutdowns server
+?clear - clears chat log (chat_log.txt)
